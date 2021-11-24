@@ -1,7 +1,7 @@
 # Личный проект «Погнали» 
 
-* Студент: [Даниил Ткач](https://up.htmlacademy.ru/adaptive/24/user/1650413).
-* Наставник: [Дмитрий Мишагин](https://up.htmlacademy.ru/adaptive/24/user/118967).
+* Студент: [Даниил  Ткач](https://up.htmlacademy.ru/adaptive/24/user/1650413).
+* Наставник: [Дмитрий  Мишагин](https://up.htmlacademy.ru/adaptive/24/user/118967).
 
 ---
 
